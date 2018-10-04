@@ -1,7 +1,7 @@
 # Data_Preprocessing
 Performs chi2 and mutual information tests on the bank dataset to find the most relevant categorical and numerical attributes. 
 ## Data Set
-The dataset is related to direct marketing campaigns of a Portuguese banking institution. The
+The dataset (bank-additional-full.csv) is related to direct marketing campaigns of a Portuguese banking institution. The
 classification goal is to predict whether a client will subscribe to a term deposit.
 ## File description
 chi2test.py: Performs chi2 test on categorical attributes <br /><br />
